@@ -28,12 +28,5 @@ public class Application {
 
         System.out.println("Найбільше : " + largest);
         System.out.println("Найменше : " + smallest);
-        
-        // test
-        
-        //test
-        
-        
-        //last test
 	}
 }
